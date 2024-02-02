@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:horizontalGap="5dp"
+    android:verticalGap="5dp"
+    android:keyHeight="100dp"
+    android:keyWidth="50%">
+    <Row>
+        <Key android:keyLabel="Toggle AIME"
+            android:keyWidth="100%"
+            android:codes="500">
+        </Key>
+    </Row>
+    <Row>
+        <Key android:keyLabel="Angry" android:codes="600"/>
+        <Key android:keyLabel="Rizz" android:codes="700"/>
+    </Row>
+
+
+    <Row>
+        <Key android:keyLabel="Sad" android:codes="800"/>
+        <Key android:keyLabel="Happy" android:codes="900"/>
+    </Row>
+
+
+</Keyboard>
